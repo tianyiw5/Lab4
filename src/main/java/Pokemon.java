@@ -68,7 +68,7 @@ public class Pokemon {
         this.d20 = new Dice(d20num);
         this.hitPoints = 0;
         this.attackLevel = 0;
-        this.defenseLevel = 0;
+        this.defenseLevel = 0 + 0;
         this.name = "";
     }
 
